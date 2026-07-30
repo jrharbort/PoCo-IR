@@ -12,3 +12,9 @@ While there is sufficient clearance between the mainboard and cartridge slot met
 All components for the IR circuit must be salvaged from an original Game Boy Color (and you probably have it as a leftover from making a PoCo anyway).
 
 The purple and black diodes will need their legs trimmed down before being soldered to the board. Keep track of which leg is longer and shorter and match them to the longer and shorter pads of the board to ensure correct orientation.
+
+## PCB
+<img width="1112" height="525" alt="PCB v0 9" src="https://github.com/user-attachments/assets/8b3b2507-42b6-4885-bd56-cf0fb581109e" />
+
+## Ribbon
+<img width="825" height="532" alt="ribbon v0 9" src="https://github.com/user-attachments/assets/43a7bbe9-0694-4102-b989-f5a8b91951f9" />
