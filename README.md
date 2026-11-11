@@ -22,3 +22,13 @@ The purple and black diodes will need their legs trimmed down before being solde
 
 ## Ribbon
 <img width="1825" height="1167" alt="ir_ribbon_v1-1" src="https://github.com/user-attachments/assets/48a54062-7ae7-4b7d-ac92-85e1458572c5" />
+
+### Changelog
+V1.1
+- Further adjustments to PCB layout and shape. Made tweaks to ribbon to make fab creation and install easier.
+
+V1.0
+- Made tweak to PCB design. Created ribbon cable to connect board to CPU.
+
+V0.9b
+- Initial PCB design, needs manual connection to CPU with wires.
