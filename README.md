@@ -13,6 +13,10 @@ All components for the IR circuit must be salvaged from an original Game Boy Col
 
 The purple and black diodes will need their legs trimmed down before being soldered to the board. Keep track of which leg is longer and shorter and match them to the longer and shorter pads of the board to ensure correct orientation.
 
+## Example Installation
+### Example with v1.0 revision
+<img width="1216" height="955" alt="251206" src="https://github.com/user-attachments/assets/8354fe62-04af-451b-bd89-68a479e3c3e7" />
+
 ## PCB
 ### Front
 <img width="2292" height="1247" alt="ir_v1-1-front" src="https://github.com/user-attachments/assets/7f10b786-c6f5-487d-a94b-6bbc7089dda9" />
